@@ -31,5 +31,5 @@ const MiddleBlock = ({ title, content, t }: MiddleBlockProps) => {
     </MiddleBlockSection>
   );
 };
-
+//241010 추가
 export default withTranslation()(MiddleBlock);
