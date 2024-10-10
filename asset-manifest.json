@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gs24-gosha/static/css/main.18dfb25f.css",
-    "main.js": "/gs24-gosha/static/js/main.0dcce15d.js",
+    "main.js": "/gs24-gosha/static/js/main.13ffe5cd.js",
     "static/js/512.b008251a.chunk.js": "/gs24-gosha/static/js/512.b008251a.chunk.js",
     "static/js/609.e4878a04.chunk.js": "/gs24-gosha/static/js/609.e4878a04.chunk.js",
     "static/js/281.984e73a6.chunk.js": "/gs24-gosha/static/js/281.984e73a6.chunk.js",
@@ -11,7 +11,7 @@
     "static/js/691.d7e1f965.chunk.js": "/gs24-gosha/static/js/691.d7e1f965.chunk.js",
     "index.html": "/gs24-gosha/index.html",
     "main.18dfb25f.css.map": "/gs24-gosha/static/css/main.18dfb25f.css.map",
-    "main.0dcce15d.js.map": "/gs24-gosha/static/js/main.0dcce15d.js.map",
+    "main.13ffe5cd.js.map": "/gs24-gosha/static/js/main.13ffe5cd.js.map",
     "512.b008251a.chunk.js.map": "/gs24-gosha/static/js/512.b008251a.chunk.js.map",
     "609.e4878a04.chunk.js.map": "/gs24-gosha/static/js/609.e4878a04.chunk.js.map",
     "281.984e73a6.chunk.js.map": "/gs24-gosha/static/js/281.984e73a6.chunk.js.map",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.18dfb25f.css",
-    "static/js/main.0dcce15d.js"
+    "static/js/main.13ffe5cd.js"
   ]
 }
