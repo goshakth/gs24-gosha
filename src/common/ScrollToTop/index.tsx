@@ -33,7 +33,11 @@ const ScrollToTop = () => {
 
   return (
     <ScrollUpContainer onClick={scrollUp} show={showScroll}>
-      <SvgIcon src="scroll-top.svg" width="20px" height="20px" />
+      <SvgIcon
+            src="https://goshakth.github.io/gs24-gosha/img/svg/scroll-top.svg"
+            width="20px"
+            height="20px"
+      />
     </ScrollUpContainer>
   );
 };
