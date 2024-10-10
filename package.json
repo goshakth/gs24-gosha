@@ -21,7 +21,6 @@
     "styled-components": "^5.3.11",
     "typescript": "^4.9.5"
   },
-  "homepage": "https://goshakth.github.io/gs24-gosha",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
